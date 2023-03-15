@@ -8,3 +8,8 @@
 	url = https://github.com/mjwestgate/revtools
 	shallow = true
 	registered = true
+[submodule "synthesisr"]
+	path = synthesisr
+	url = https://github.com/mjwestgate/synthesisr
+	shallow = true
+	registered = true
